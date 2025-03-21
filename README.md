@@ -26,5 +26,6 @@ Aquí algunas imágenes del dashboard:
 ## 📢 Contacto
 📩 **jose.miguelhen@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-miguel-henr%C3%ADquez-arrau-sociologo-fullstack-web/)  
+
 ---
 👨‍💻 **Autor:** [José Miguel Henríquez Arrau](https://www.linkedin.com/in/jos%C3%A9-miguel-henr%C3%ADquez-arrau-sociologo-fullstack-web/)  
